@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/bomb.png</file>
+        <file>images/bombed.png</file>
+        <file>images/exp.png</file>
+        <file>images/expbomb.png</file>
+        <file>images/flag.png</file>
+        <file>images/funny.png</file>
+        <file>images/inform.png</file>
+        <file>images/mainIcon.png</file>
+        <file>images/press.jpg</file>
+        <file>images/press.png</file>
+        <file>images/sad.jpg</file>
+        <file>images/unpress.jpg</file>
+        <file>images/unpress.png</file>
+        <file>images/nums/num1.png</file>
+        <file>images/nums/num2.png</file>
+        <file>images/nums/num3.png</file>
+        <file>images/nums/num4.png</file>
+        <file>images/nums/num5.png</file>
+        <file>images/nums/num6.png</file>
+        <file>images/nums/num7.png</file>
+        <file>images/nums/num8.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
